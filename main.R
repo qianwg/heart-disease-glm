@@ -9,7 +9,7 @@ library(ordinal)
 library(brglm2)
 library("nnet")
 library(boot)
-source('~/Git-Projects/heart-disease-glm/utility.R')
+source('utility.R')
 
 setwd("C:/Users/bbecerra/Documents/Git-Projects/heart-disease-glm")
 "
